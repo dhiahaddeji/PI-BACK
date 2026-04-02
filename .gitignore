@@ -43,6 +43,8 @@ lerna-debug.log*
 .env.local
 !.env.example
 .claude/
+uploads/
+create-admin.js
 # temp directory
 .temp
 .tmp
